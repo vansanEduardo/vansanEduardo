@@ -19,6 +19,5 @@ Estou constantemente trabalhando para aprimorar minhas habilidades e aprender no
 
 ---
 
-> "A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
 
 
