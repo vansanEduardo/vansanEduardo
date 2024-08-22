@@ -2,7 +2,7 @@
 
 ### 🌐 Desenvolvedor Web Júnior | Estudante de HTML, CSS, JavaScript, TypeScript e React
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web júnior apaixonado por tecnologia e programação. Estou sempre em busca de aprender mais e criar soluções criativas para problemas do mundo real.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor web júnior. Estou sempre em busca de aprender mais e criar soluções criativas para problemas do mundo real.
 
 ## 🚀 Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
