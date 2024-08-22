@@ -14,7 +14,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 Estou constantemente trabalhando para aprimorar minhas habilidades e aprender novas tecnologias. Meu objetivo é me tornar um desenvolvedor web full-stack e contribuir para projetos que impactem positivamente as pessoas.
 
 ## 📫 Como me encontrar
-- **LinkedIn**: [[linkedin.com/in/seu-usuario](https://www.linkedin.com/in/eduardo-vansan-23242a229/)]
+- **LinkedIn**: [[Eduardo Vansan](https://www.linkedin.com/in/eduardo-vansan-23242a229/)]
 - **Email**: eduvansan14@gmail.com
 
 ---
