@@ -14,7 +14,7 @@ Aqui estão alguns dos projetos que desenvolvi:
 
 - 🔗 [Comparador de Gasolina e Etanol](https://vansaneduardo.github.io/gasolinaVsEtanol/): Aplicação que ajuda a calcular o combustível mais econômico.
 - 🔗 [Pokédex](https://vansaneduardo.github.io/pokedex/): Uma Pokédex interativa que permite pesquisar por diferentes Pokémon.
-
+-  🔗 [Pagina de Login](https://vansaneduardo.github.io/loginPage/): Uma página de login responsiva com opção de troca de tema..
 
 ## 🎯 Objetivos
 Estou constantemente trabalhando para aprimorar minhas habilidades e aprender novas tecnologias. Meu objetivo é me tornar um desenvolvedor web full-stack e contribuir para projetos que impactem positivamente as pessoas.
