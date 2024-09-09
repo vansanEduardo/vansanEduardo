@@ -20,7 +20,7 @@ Aqui estão alguns dos projetos que desenvolvi:
 Estou constantemente trabalhando para aprimorar minhas habilidades e aprender novas tecnologias. Meu objetivo é me tornar um desenvolvedor web full-stack e contribuir para projetos que impactem positivamente as pessoas.
 
 ## 📫 Como me encontrar
-- **LinkedIn**: [Eduardo Vansan](www.linkedin.com/in/eduardovansan)
+- **LinkedIn**: [Eduardo Vansan](https://www.linkedin.com/in/eduardovansan)
 - **Email**: eduvansan14@gmail.com
 ---
 
