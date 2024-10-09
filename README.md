@@ -16,7 +16,8 @@ Aqui estão alguns dos projetos que desenvolvi:
 - 🔗 [Pokédex](https://vansaneduardo.github.io/pokedex/): Uma Pokédex interativa que permite pesquisar por diferentes Pokémon.
 -  🔗 [Pagina de Login](https://vansaneduardo.github.io/loginPage/): Uma página de login responsiva com opção de troca de tema..
 -  🔗 [Notas](https://vansaneduardo.github.io/notes/): é um aplicativo simples para gerenciamento de notas. Ele permite que os usuários criem, editem e excluam notas facilmente, além de oferecer a funcionalidade de alternância entre temas claro e escuro..
-
+-  🔗 [ShoeGallery](https://vansaneduardo.github.io/ShoeGallery/):  um catálogo online que exibe uma seleção de tênis com detalhes como nome, preço e tamanhos.
+  
 ## 🎯 Objetivos
 Estou constantemente trabalhando para aprimorar minhas habilidades e aprender novas tecnologias. Meu objetivo é me tornar um desenvolvedor web full-stack e contribuir para projetos que impactem positivamente as pessoas.
 
