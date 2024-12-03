@@ -12,7 +12,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ## 📂 Projetos
 Aqui estão alguns dos projetos que desenvolvi:
 
-- 🔗 [Comparador de Gasolina e Etanol](https://vansaneduardo.github.io/gasolinaVsEtanol/): Aplicação que ajuda a calcular o combustível mais econômico.
+- 🔗 [PlayLearnl](https://vansaneduardo.github.io/PlayLearn/): Uma Plataforma De Jogos Educacionais fui responsavel por construir o design do site, a estrutura em React,e o jogo ghost atack
   
 - 🔗 [Pokédex](https://vansaneduardo.github.io/pokedex/): Uma Pokédex interativa que permite pesquisar por diferentes Pokémon.
   
